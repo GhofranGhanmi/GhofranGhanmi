@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I’m Ghofran 👋
 
-<!--
-**ghofran123/ghofran123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Data Analyst / Aspiring Data Engineer  
+Power BI | SQL | Python | Azure | Databricks
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Projects
+
+| Project | Tools | Description | Link |
+|--------|------|-------------|------|
+| Sales Dashboard | Power BI, Excel | Dashboard to track sales KPIs | [Repo](link) |
+| Complaints Analysis | Python, NLP, SQL | Sentiment analysis to improve customer retention | [Repo](link) |
+| ETL Pipeline | Databricks, Azure | Data pipeline for marketing data | [Repo](link) |
+
+---
+
+## 📫 Contact
+- LinkedIn: [Your LinkedIn]([[link](https://www.linkedin.com/in/Ghofran-Ghanmi)])
+- Email: ghanmi.ghofran@gmail.com
