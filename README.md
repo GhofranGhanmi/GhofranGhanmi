@@ -1,10 +1,10 @@
 ![Banner](./Banner.png)
-## :computer: Ghofran Ghanmi
+# :computer: Ghofran Ghanmi
 
 Business Intelligence Engineer (Data Analyst/Data Engineer) 
 Power BI | SQL | Python | Azure | Databricks
 
-# My Data Analysis Projects  [Projects](https://github.com/GhofranGhanmi?tab=repositories)
+## My Data Analysis Projects  [My Data Analysis Projects](https://github.com/GhofranGhanmi?tab=repositories)
 ---
 
 ## 🔭 Projects
