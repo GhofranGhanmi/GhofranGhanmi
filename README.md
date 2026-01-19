@@ -21,4 +21,3 @@
 
 ## 📫 Contact
 - LinkedIn: [Ghofran Ghanmi](https://www.linkedin.com/in/Ghofran-Ghanmi)
-- Email: ghanmi.ghofran@gmail.com
