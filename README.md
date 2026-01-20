@@ -9,7 +9,7 @@
  
 ---
 
-## 🔭 About Me
+## ✨ About Me
 
 I'm a Business Intelligence Engineer, i turn raw, messy data into clear stories and reliable systems. My background blends data analysis and data engineering, allowing me to move comfortably from understanding business questions to building the pipelines that answer them.
 
